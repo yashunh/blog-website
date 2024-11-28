@@ -1,4 +1,4 @@
-import { Blog, useBlogs } from "../hooks/useBlogs";
+import { useBlogs } from "../hooks/useBlogs";
 import BlogCard from "./BlogCard";
 
 export function Blogs() {
